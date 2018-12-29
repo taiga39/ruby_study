@@ -10,11 +10,3 @@ def fizzbuzz(i)
   end
 end
 
-puts fizzbuzz(1)
-puts fizzbuzz(2)
-puts fizzbuzz(3)
-puts fizzbuzz(4)
-puts fizzbuzz(5)
-puts fizzbuzz(6)
-puts fizzbuzz(9)
-puts fizzbuzz(15)
